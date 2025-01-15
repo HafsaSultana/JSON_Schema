@@ -10,7 +10,6 @@ JSON Schema Validator is a tool that ensures JSON data conforms to a predefined 
 - **Custom Constraints**: Supports constraints like minimum/maximum values, string lengths, and required fields.
 - **Extensibility**: Allows defining custom formats and reusable components using `$ref`.
 
----
 
 ## JSON Schema Components
 - **`$schema`**: Defines the version of the JSON Schema (e.g., Draft 2020-12).
