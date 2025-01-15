@@ -35,14 +35,3 @@ JSON Schema Validator is a tool that ensures JSON data conforms to a predefined 
   },
   "required": ["name", "age"]
 }
-
-### JSON Data
-```json
-{
-  "name": "Alice",
-  "age": 25,
-  "email": "alice@example.com"
-}
-
-### Validation Output
-✅ Valid, as it adheres to the schema.
