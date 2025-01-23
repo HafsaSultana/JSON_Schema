@@ -60,5 +60,6 @@ JSON Schema Validator is a tool that ensures JSON data conforms to a predefined 
 - **Interoperability**: Facilitates consistent communication between systems.
 - **Ease of Use**: Simplifies debugging and ensures predictable behavior.
 
+
 For more information, visit the [JSON Schema official website](https://json-schema.org/).
 
